@@ -1,0 +1,1 @@
+python -m PyInstaller --onefile --add-data "genos1.data;." --icon=icon.ico YamahaRegistrationConverter.py
