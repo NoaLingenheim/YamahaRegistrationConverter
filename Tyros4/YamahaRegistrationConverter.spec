@@ -5,7 +5,7 @@ a = Analysis(
     ['YamahaRegistrationConverter.py'],
     pathex=[],
     binaries=[],
-    datas=[('tyros4.data', '.')],
+    datas=[('tyros4.data', '.'), ('icon.ico', '.')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},

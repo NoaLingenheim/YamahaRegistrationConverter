@@ -1,1 +1,1 @@
-python -m PyInstaller --onefile --add-data "tyros4.data;." --icon=icon.ico YamahaRegistrationConverter.py
+python -m PyInstaller --onefile --add-data "tyros4.data:." --add-data "icon.ico:." --icon=icon.ico YamahaRegistrationConverter.py 
